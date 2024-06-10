@@ -1,2 +1,0 @@
-# kaffe-trening.io
-Вкусняшки
